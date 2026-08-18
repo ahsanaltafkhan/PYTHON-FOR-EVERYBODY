@@ -25,3 +25,30 @@ A structured, hands-on Python learning path inspired by the public **Python for 
 9. Dictionaries
 10. Tuples
 11. Regular Expressions
+12. Network Programming
+13. Using Web Services
+14. Object-Oriented Programming
+15. Databases
+16. Data Visualization
+17. Capstone Projects
+
+## Setup
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+```
+
+Windows:
+
+```powershell
+.venv\Scripts\activate
+pip install -r requirements.txt
+```
+
+## Philosophy
+
+Run the code. Change it. Break it. Debug it. Then solve the exercises without looking at the examples.
+
+> This is an original learning repository. It does not reproduce Coursera quizzes, proprietary course content, videos, or answer keys.
