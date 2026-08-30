@@ -52,3 +52,7 @@ pip install -r requirements.txt
 Run the code. Change it. Break it. Debug it. Then solve the exercises without looking at the examples.
 
 > This is an original learning repository. It does not reproduce Coursera quizzes, proprietary course content, videos, or answer keys.
+
+## Official reference
+
+The public PY4E website provides free lessons, book material, code samples and assignments.
